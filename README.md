@@ -1,3 +1,5 @@
+![.NET Build & Test](https://github.com/ichwankm/NameSorter/actions/workflows/dotnet.yml/badge.svg)
+
 # NameSorter
 
 ## 📋 Description
