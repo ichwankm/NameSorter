@@ -15,7 +15,7 @@ This solution includes:
 
 ## ✅ Prerequisites
 
-- .NET 7 SDK
+- .NET 8 SDK
 - Visual Studio 2022 / Visual Studio Code
 
 ---
