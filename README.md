@@ -41,14 +41,28 @@ This solution includes:
 
 ```bash
 Input (unsorted-names-list.txt):
-Hailey Avie Annakin  
-Erna Dorey Battelle  
 Orson Milka Iddins
+Erna Dorey Battelle
+Flori Chaunce Franzel
+Odetta Sue Kaspar
+Roy Ketti Kopfen
+Madel Bordie Mapplebeck
+Selle Bellison
+Leonerd Adda Mitchell Monaghan
+Debra Micheli
+Hailey Avie Annakin
 
 Output (sorted-names-list.txt):
-Hailey Avie Annakin  
-Erna Dorey Battelle  
+Hailey Avie Annakin
+Erna Dorey Battelle
+Selle Bellison
+Flori Chaunce Franzel
 Orson Milka Iddins
+Odetta Sue Kaspar
+Roy Ketti Kopfen
+Madel Bordie Mapplebeck
+Debra Micheli
+Leonerd Adda Mitchell Monaghan
 ```
 
 ---
